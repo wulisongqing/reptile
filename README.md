@@ -8,7 +8,11 @@
 ## 运行
 
 开始项目：
+
 npm install
+
 开始爬取数据：
+
 yarn run start
+
 爬取下来的数据将保存在douban.txt文件里面
